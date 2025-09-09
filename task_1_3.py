@@ -1,0 +1,5 @@
+name = input("Was ist dein Name? ")
+print (name)
+print (name.upper())
+print (name.lower())
+print (name.capitalize())
